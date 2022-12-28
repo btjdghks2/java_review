@@ -24,6 +24,7 @@ public class cal_test {
 			
 		
 	}else if(a>=3) {
+		op.sum();
 		
 	}else if(a>=4) {
 		
